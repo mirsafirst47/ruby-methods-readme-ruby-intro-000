@@ -1,13 +1,13 @@
-# Use this space to code along with the readme
-
-phrase = "Hello World!"
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+def say_welcome_to_ruby_ten_times
+  phrase = "Welcome to Ruby"
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+end
